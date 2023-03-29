@@ -96,7 +96,7 @@ public interface ArrayProcessor {
 
     /**
      * In order to execute a matrix multiplication, in this method, please validate the input data throwing exceptions for invalid input.
-     * If the the input params are satisfactory, do not throw any exception.
+     * If the input params are satisfactory, do not throw any exception.
      *
      * Please review the matrix multiplication https://www.mathsisfun.com/algebra/matrix-multiplying.html
      *
